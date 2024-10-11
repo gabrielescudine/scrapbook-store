@@ -8,18 +8,18 @@ Este projeto é um site desenvolvido do zero para uma loja virtual especializada
 Desde o design até a implementação, cada detalhe foi pensado para criar uma experiência de compra intuitiva e agradável, conectando profissionais e entusiastas da saúde com acessórios únicos e temáticos.
 <br>
 <br>
-Você pode acessar o site através deste link: [Em breve...](https://linkdoproyecto.com).
+Você pode acessar o site através deste link: [Em breve...](https://linkdoprojeto.com).
 
 ## 💻 Tecnologias Usadas
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 <ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-  <li>WordPress</li>
-  <li>Plugins do WordPress</li>
+  <li>HTML5: esqueleto do site, utilizado para fazer as devidas marcações;</li>
+  <li>CSS3: estilização e responsividade do site;</li>
+  <li>JavaScript: utilizado para fazer o menu mobile e alguns sliders;</li>
+  <li>WordPress: implementado ao WordPress para a utilização de plugins que fazem validação back-end;</li>
+  <li>Plugins do WordPress: implementado o sistema de loja e formulários de contato.</li>
 </ul>
 
 ## 📬 Contatos
